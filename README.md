@@ -1,3 +1,4 @@
+>**Note:** This project is a fork of [shantoislamdev/androfolio](https://github.com/shantoislamdev/androfolio).
 ## Project Structure
 
 ```
@@ -10,5 +11,3 @@ portfolio/
 ├── README.md
 └── LICENSE
 ```
-
->**Note:** This project is a fork of [shantoislamdev/androfolio](https://github.com/shantoislamdev/androfolio).
